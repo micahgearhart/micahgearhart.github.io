@@ -88,8 +88,8 @@ Harvey Mudd College
 ### Scientific Publications {#profile}
 Cao Q, **Gearhart MD**, Gery S, Shojaee S, Yang H, Sun H, Mead M, Zhao Z, Lin D, Chen Q,  Alkan S, Haferlach T, Müschenx, M, Bardwell VJ, Koeffler, HP, "BCOR controls maintenance of haematopoietic stem cell quiescence and regulates myeloid cell proliferation/differentiation." Manuscript Submitted.
 
-###
-  Béguelin W, Teater M, **Gearhart MD**, Goldstein RL, Cárdenas MG, Rosen M, Shen H, Corcoran CM, Hamline MY, Gascoyne RD, Levine RL, Abdel-Wahab O, Licht JD, Shaknovich R, Elemento O, Bardwell VJ, Melnick AM. "BCL6 and EZH2 cooperate to assemble a CBX8-BCOR Polycomb complex to repress bivalent chromatin, mediate germinal center formation and promote lymphomagenesis." Manuscript Submitted. 
+###   
+  Béguelin W, Teater M, **Gearhart MD**, Goldstein RL, Cárdenas MG, Rosen M, Shen H, Corcoran CM, Hamline MY, Gascoyne RD, Levine RL, Abdel-Wahab O, Licht JD, Shaknovich R, Elemento O, Bardwell VJ, Melnick AM. "BCL6 and EZH2 cooperate to assemble a CBX8-BCOR Polycomb complex to repress bivalent chromatin, mediate germinal center formation and promote lymphomagenesis." Manuscript Submitted.
  
 ###   
   Yang, JA, Tubo, NJ, **Gearhart MD**, Bardwell, VJ, Jenkins, MK. "BCL6 interacting corepressor contributes to germinal center T follicular helper cell formation and B cell helper function", [Journal of Immunology, 2015 Jun 15;194(12):5604-8.](http://www.ncbi.nlm.nih.gov/pubmed/?term=25964495)
