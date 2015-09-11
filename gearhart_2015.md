@@ -76,8 +76,8 @@ Harvey Mudd College
   &nbsp;&nbsp;&nbsp;&nbsp;*Cutting edge analysis of RNA-seq and Single Cell RNA-Seq data were used to help elucidate how cells in the female ovary transdifferentiate into their male counterpart. A reproducible workflow can be found at [https://github.com/micahgearhart/cag-dmrt1](https://github.com/micahgearhart/cag-dmrt1).*
 
 ###   
-  **Gearhart MD**, Erickson J, Walsh A, and Echeverri K. "Identification of conserved and novel microRNAs during tail regeneration in the Mexican Axolotl", Manuscript in Revision.  
-  &nbsp;&nbsp;&nbsp;&nbsp;*This project highlights my ability to develop a de novo approach to work with the highly repetitive and unsequenced genome of the axolotl. A reproducible workflow will soon be available at [https://github.com/micahgearhart/amex-miR](https://github.com/micahgearhart/amex-miR).*
+  **Gearhart MD**, Erickson J, Walsh A, and Echeverri K. "Identification of conserved and novel microRNAs during tail regeneration in the Mexican Axolotl", [*Int. J. Mol. Sci.* 2015, 16(9), 22046-22061](http://www.mdpi.com/1422-0067/16/9/22046).  
+  &nbsp;&nbsp;&nbsp;&nbsp;*This project highlights my ability to develop a de novo approach to work with the highly repetitive and unsequenced genome of the axolotl. A reproducible workflow can be found at [https://github.com/micahgearhart/amex-miR](https://github.com/micahgearhart/amex-miR).*
 
 ###   
   Zhang T, Murphy MW, **Gearhart MD**, Bardwell VJ, Zarkower D. "The mammalian Doublesex homolog DMRT6 coordinates the transition between mitotic and meiotic developmental programs during spermatogenesis", [Development. 2014 Oct;141(19):3662-71.](http://www.ncbi.nlm.nih.gov/pubmed/25249458)
@@ -87,6 +87,9 @@ Harvey Mudd College
 
 ### Scientific Publications {#profile}
 Cao Q, **Gearhart MD**, Gery S, Shojaee S, Yang H, Sun H, Mead M, Zhao Z, Lin D, Chen Q,  Alkan S, Haferlach T, Müschenx, M, Bardwell VJ, Koeffler, HP, "BCOR controls maintenance of haematopoietic stem cell quiescence and regulates myeloid cell proliferation/differentiation." Manuscript Submitted.
+
+###
+  Béguelin W, Teater M, **Gearhart MD**, Goldstein RL, Cárdenas MG, Rosen M, Shen H, Corcoran CM, Hamline MY, Gascoyne RD, Levine RL, Abdel-Wahab O, Licht JD, Shaknovich R, Elemento O, Bardwell VJ, Melnick AM. "BCL6 and EZH2 cooperate to assemble a CBX8-BCOR Polycomb complex to repress bivalent chromatin, mediate germinal center formation and promote lymphomagenesis." Manuscript Submitted. 
  
 ###   
   Yang, JA, Tubo, NJ, **Gearhart MD**, Bardwell, VJ, Jenkins, MK. "BCL6 interacting corepressor contributes to germinal center T follicular helper cell formation and B cell helper function", [Journal of Immunology, 2015 Jun 15;194(12):5604-8.](http://www.ncbi.nlm.nih.gov/pubmed/?term=25964495)
