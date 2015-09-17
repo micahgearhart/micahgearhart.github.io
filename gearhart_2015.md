@@ -42,7 +42,7 @@ Informatics analyist for data-intensive biomedical research projects requiring i
 ### Employment {#employment}
 
 University of Minnesota
-: *Bioinformatics Consultant, Genetics Cell Biology and Development*
+: *Research Assistant Professor, Genetics Cell Biology and Development*
   __2014-present__
 Collaborate with investigators to analyze and interpret next generation sequencing data. Facilitate transfer of knowledge regarding bioinformatics tools and statistical methods for functional genomics to research groups. 
 
